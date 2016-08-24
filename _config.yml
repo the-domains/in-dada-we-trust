@@ -1,4 +1,3 @@
-layout_spectrum: 0.8832592151593417
 typography_spectrum: 0.11077469936572015
 color:
   brandStrength: 0.30980402207933366
@@ -11,4 +10,6 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.8832592151593417
 name: In Dada We Trust
+title: Silly Junction Station
