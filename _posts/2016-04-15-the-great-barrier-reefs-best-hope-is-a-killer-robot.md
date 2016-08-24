@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-24T19:11:37.314Z'
+datePublished: '2016-08-24T19:24:50.694Z'
 sourcePath: _posts/2016-04-15-the-great-barrier-reefs-best-hope-is-a-killer-robot.md
 inFeed: true
-isBasedOnUrl: 'http://www.wired.com/2016/04/starfish-killer-robot/'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - zombies
   - cotsbot
@@ -20,7 +19,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-24T19:11:36.661Z'
+dateModified: '2016-08-24T19:24:50.096Z'
 title: The Great Barrier Reef's Best Hope Is a Killer Robot
 app_links: []
 publisher:
@@ -38,6 +37,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: the-great-barrier-reefs-best-hope-is-a-killer-robot/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
