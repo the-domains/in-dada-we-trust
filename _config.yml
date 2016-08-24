@@ -12,5 +12,9 @@ color:
     - '#DD403A'
 layout_spectrum: 0.8832592151593417
 name: In Dada We Trust
+navigation:
+  - name: Who is normal here?
+    id: fa653f0f-398e-49ab-91a6-29d210a443ba
+    type: content
 title: Silly Junction Station
 description: No More Order. Trust! A few! No.
