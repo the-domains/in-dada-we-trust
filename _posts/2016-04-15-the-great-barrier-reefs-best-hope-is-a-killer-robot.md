@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-08-24T19:31:28.618Z'
+datePublished: '2016-08-25T16:09:32.944Z'
 sourcePath: _posts/2016-04-15-the-great-barrier-reefs-best-hope-is-a-killer-robot.md
 inFeed: true
+isBasedOnUrl: 'http://www.wired.com/2016/04/starfish-killer-robot/'
 authors: []
-hasPage: true
+hasPage: false
 keywords:
   - zombies
   - cotsbot
@@ -18,7 +19,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-24T19:31:28.011Z'
+dateModified: '2016-08-25T16:09:32.354Z'
 title: ''
 app_links: []
 publisher: {}
@@ -26,7 +27,6 @@ description: Who is normal here?
 inLanguage: en
 inNav: false
 starred: false
-url: the-great-barrier-reefs-best-hope-is-a-killer-robot/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
